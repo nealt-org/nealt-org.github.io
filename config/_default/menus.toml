@@ -1,0 +1,92 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "Home"
+  url = "/"
+  weight = 10
+
+
+[[main]]
+  name = "NoDaLiDa"
+  url = "/nodalida"
+  weight = 20
+
+[[main]]
+  name = "Publications"
+  weight = 30
+
+[[main]]
+  parent = "Publications"
+  name = "Northern European Journal of Language Technology (NEJLT)"
+  url = "https://www.nejlt.org/"
+  weight = 31
+
+[[main]]
+  parent = "Publications"
+  name = "NEALT Proceedings Series"
+  url = "/proceedings"
+  weight = 32
+
+[[main]]
+  parent = "Publications"
+  name = "NEALT Monograph Series"
+  url = "/monographs"
+  weight = 34
+
+[[main]]
+  parent = "Publications"
+  name = "NoDaLiDa Proceedings"
+  url = "/nodalida/#conferences"
+  weight = 36
+
+[[main]]
+  parent = "Publications"
+  name = "Ethics and Malpractice Statement"
+  url = "/ethics"
+  weight = 38
+
+[[main]]
+  name = "SIGs"
+  url = "/sigs"
+  weight = 50
+
+[[main]]
+  name = "Membership"
+  url = "/membership"
+  weight = 60
+
+[[main]]
+  name = "Contact"
+  url = "/contact"
+  weight = 99
+
+[[main]]
+  name = "For Members"
+  weight = 100
+
+[[main]]
+  parent = "For Members"
+  name = "Business Meetings"
+  url = "/business-meetings"
+  weight = 102
+
+[[main]]
+  parent = "For Members"
+  name = "Constitution"
+  url = "/constitution"
+  weight = 105
+
+[[main]]
+  parent = "For Members"
+  name = "Executive Committee"
+  url = "/exec"
+  weight = 108
+
+
+# [[main]]
+#   name = "Issues"
+#   url = "https://nejlt.ep.liu.se/issue/archive"
+#   weight = 25
