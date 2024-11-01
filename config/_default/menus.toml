@@ -49,11 +49,6 @@
   weight = 38
 
 [[main]]
-  name = "SIGs"
-  url = "/sigs"
-  weight = 50
-
-[[main]]
   name = "Membership"
   url = "/membership"
   weight = 60
@@ -84,6 +79,13 @@
   name = "Executive Committee"
   url = "/exec"
   weight = 108
+
+[[main]]
+  parent = "For Members"
+  name = "SIGs"
+  url = "/sigs"
+  weight = 150
+
 
 
 # [[main]]
