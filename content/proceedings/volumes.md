@@ -7,6 +7,7 @@ title = "Volumes"
 
 | #   | Title |
 | ---:| ---- |
+| 57  | [Proceedings of the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)](https://hdl.handle.net/10062/107190) |
 | 56  | [Proceedings of the 13th Workshop on Natural Language Processing for Computer Assisted Language Learning (NLP4CALL 2024)](https://doi.org/10.3384/ecp211) |
 | 55  | [Selected contributions from the Eighth Swedish Language Technology Conference (SLTC-2020)](https://doi.org/10.3384/ecp184) |
 | 54  | [Proceedings of the 9th Workshop on Natural Language Processing for Computer Assisted Language Learning (NLP4CALL 2020)](https://doi.org/10.3384/ecp20175) |
