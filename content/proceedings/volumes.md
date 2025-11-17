@@ -7,6 +7,8 @@ title = "Volumes"
 
 | #   | Title |
 | ---:| ---- |
+| 59  | [Huminfra handbook: Empowering digital and experimental humanities](https://hdl.handle.net/10062/117324) |
+| 58  | [Proceedings of the 7th International Conference on Historical Cryptology (HistoCrypt 2024)](https://doi.org/10.58009/aere-perennius0084) |
 | 57  | [Proceedings of the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)](https://hdl.handle.net/10062/107190) |
 | 56  | [Proceedings of the 13th Workshop on Natural Language Processing for Computer Assisted Language Learning (NLP4CALL 2024)](https://doi.org/10.3384/ecp211) |
 | 55  | [Selected contributions from the Eighth Swedish Language Technology Conference (SLTC-2020)](https://doi.org/10.3384/ecp184) |
