@@ -9,7 +9,8 @@ title = "Volumes"
 | ---:| ---- |
 | 59  | [Huminfra handbook: Empowering digital and experimental humanities](https://hdl.handle.net/10062/117324) |
 | 58  | [Proceedings of the 8th International Conference on Historical Cryptology (HistoCrypt 2025)](https://doi.org/10.58009/aere-perennius0158) |
-| 57  | [Proceedings of the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)](https://hdl.handle.net/10062/107190) |
+| <sup>†</sup>57 | [Proceedings of the 3rd Workshop on Resources and Representations for Under-Resourced Languages and Domains (RESOURCEFUL-2025)](https://hdl.handle.net/10062/107132) |
+| <sup>†</sup>57 | [Proceedings of the Joint 25th Nordic Conference on Computational Linguistics and 11th Baltic Conference on Human Language Technologies (NoDaLiDa/Baltic-HLT 2025)](https://hdl.handle.net/10062/107190) |
 | 56  | [Proceedings of the 13th Workshop on Natural Language Processing for Computer Assisted Language Learning (NLP4CALL 2024)](https://doi.org/10.3384/ecp211) |
 | 55  | [Selected contributions from the Eighth Swedish Language Technology Conference (SLTC-2020)](https://doi.org/10.3384/ecp184) |
 | 54  | [Proceedings of the 9th Workshop on Natural Language Processing for Computer Assisted Language Learning (NLP4CALL 2020)](https://doi.org/10.3384/ecp20175) |
@@ -70,5 +71,5 @@ title = "Volumes"
 | 1   | [Proceedings of the Sixth International Workshop on Treebanks and Linguistic Theories (TLT 2007)](http://dspace.ut.ee/handle/10062/4476) |
 
 <small class="text-muted">
-<sup>†</sup><i>Note:</i> Numbers 21 and 28 have been assigned twice.
+<sup>†</sup><i>Note:</i> Some numbers have been assigned twice.
 </small>
