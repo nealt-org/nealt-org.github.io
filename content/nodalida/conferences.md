@@ -7,6 +7,7 @@ title = "Conferences"
 
 | #   | Date |    | Location | Links |
 | ---:|:----:| --:| -------- | ----- |
+| 26  | 2027 | 25-28 May | Copenhagen, Denmark |  [Website](https://eventsignup.ku.dk/nodalida-27)|
 | 25  | 2025 | 2-5 March | Tallinn, Estonia | [Proceedings](https://hdl.handle.net/10062/107190) · [Website](https://sites.google.com/view/nodalida-bhlt2025) |
 | 24  | 2023 | 22-24 May | Tórshavn, Faroe Islands | [Proceedings](https://aclanthology.org/volumes/2023.nodalida-1/) · [Website](https://www.nodalida2023.fo/) |
 | 23  | 2021 | 31 May–2 June | Reykjavik, Iceland | [Proceedings](https://aclanthology.org/volumes/2021.nodalida-main/) · [Website](https://nodalida2021.github.io/) |
